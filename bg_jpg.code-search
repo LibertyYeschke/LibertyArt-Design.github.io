@@ -1,0 +1,9 @@
+# Query: bg.jpg
+# ContextLines: 1
+
+1 result - 1 file
+
+assets/sass/layout/_bg.scss:
+  48  			));
+  49: 			background-image:		url('../../images/Background pics/lol.png');
+  50  			background-position:	center;
